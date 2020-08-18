@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+
+### **Interest**
+*   Listen music
+    *watch movie
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Big fan of spicy food
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[lli48@ncsu.edu](mailto:lli48@ncsu.edu)
