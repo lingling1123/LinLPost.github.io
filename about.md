@@ -7,7 +7,8 @@ permalink: /about/
 
 ### **Interest**
 *   Listen music
-    * watch movie
+*   watch movie
+*   Board games
 
 ### More Information
 
