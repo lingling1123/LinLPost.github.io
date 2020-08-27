@@ -12,10 +12,7 @@ I had programming experience in SAS. I think that R is more easier to use than S
 *   Listen music
 *   watch movies
 *   Play Board games
-
-### More Information
-
-Big fan of spicy Chinese food,[click here to know some dishes I like.](https://www.cnn.com/travel/article/china-food-spiciest-dishes/index.html)
+*   Big fan of spicy Chinese food,[click here to know some dishes I like.](https://www.cnn.com/travel/article/china-food-spiciest-dishes/index.html)
 
 ### Contact me
 
